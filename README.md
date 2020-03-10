@@ -8,4 +8,4 @@ A small guide on how to write Linux Device Drivers
 > or even unusable in certain situations, leading to kernel panics or a system
 > unable to boot at all.
 
-# TRY THIS AT YOUR OWN RISK
+# TRY THIS AT YOUR OWN RISK, and for god's sake, follow the kernel coding style
